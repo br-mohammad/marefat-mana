@@ -20,7 +20,7 @@ class TeacherResource extends Resource
 
     protected static ?string $pluralLabel = 'اساتید';
 
-    protected static ?string $label = 'استاد';
+    protected static ?string $label = 'استاد یک دو سه';
 
     protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
 
